@@ -5,7 +5,6 @@
 **Altium Designer ile şemasını ve baskı devresini tasarladığım mikrodenetleyici kartları, sensör modülleri, güç ve motor sürücü kartları, ayrıca projelerim için tasarladığım 3B baskı parçaları**
 
 ![Altium](https://img.shields.io/badge/Altium%20Designer-A5915F?logo=altiumdesigner&logoColor=white)
-![PCB](https://img.shields.io/badge/PCB-2%20katman-green)
 ![3D](https://img.shields.io/badge/3B%20bask%C4%B1-FDM-orange)
 
 <img src="docs/boards/rp2350-dev-board.jpg" width="720" alt="RP2350 geliştirme kartı">
